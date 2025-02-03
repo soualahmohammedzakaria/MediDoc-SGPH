@@ -94,8 +94,8 @@ Open your browser and navigate to:
 
 ## Further Reading & References
 
+- [MediDoc Frontend](https://github.com/soualahmohammedzakaria/MediDoc)
 - [MediDoc Backend](https://github.com/soualahmohammedzakaria/MediDoc-Backend)
-- [MediDoc SGPH](https://github.com/soualahmohammedzakaria/MediDoc-SGPH)
 - [Django Documentation](https://docs.djangoproject.com/en/stable/)  
 - [Pipenv Documentation](https://pipenv.pypa.io/en/latest/)  
 
